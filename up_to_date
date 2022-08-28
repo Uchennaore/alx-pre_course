@@ -1,0 +1,2 @@
+sed -i"s/ALX/ALx School is so cool!/g" alx
+code used to update
